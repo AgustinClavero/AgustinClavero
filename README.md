@@ -33,6 +33,8 @@ Estos tres viven en repositorios privados. Los reviso por pantalla compartida cu
 
 **[ClaveTrack](https://github.com/AgustinClavero/ClaveTrack)** — [clave-track.vercel.app](https://clave-track.vercel.app) · PWA instalable de seguimiento personal: nutrición, peso, actividad, hábitos, rutina y trabajo, resumidos en un solo número por día. Server Actions validadas con Zod, dominio puro y testeable, RLS uniforme en 22 tablas e integración con Strava por OAuth y webhook. Next.js App Router, TypeScript estricto, Supabase, TanStack Query, Zustand. **Es el que mejor muestra cómo escribo y cómo documento hoy.**
 
+**[sistema-estudio](https://github.com/AgustinClavero/sistema-estudio)** — Mi plataforma de estudio, escrita a mano en JavaScript vainilla: se abre con doble clic, sin build, sin dependencias y sin internet. Seis cursos —arquitectura, IA aplicada, infraestructura, lógica, inglés A1 y paid media— con pomodoro, exámenes por módulo, repaso espaciado y progreso guardado en el navegador. La usé para prepararme; la dejo pública por si le sirve a alguien más.
+
 El resto de los repositorios públicos son ejercicios de cursada de 2020–2024. Los dejo por historial, no como muestra de trabajo actual.
 
 ---
