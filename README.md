@@ -20,9 +20,18 @@ Estos tres viven en repositorios privados. Los reviso por pantalla compartida cu
 
 ---
 
+## En desarrollo
+
+| Proyecto | Qué es |
+|---|---|
+| **Medialunas Ya · POS** | Punto de venta a medida para una cafetería y panadería: salón, pedidos, KDS, caja y cierres de turno. Reemplaza un sistema anterior de una sola página sin backend y con la base expuesta. Next.js 16 · React 19 · Supabase con RLS y login por PIN hasheado |
+| **eBe Muebles · Cotizador** | Cotizador de muebles a medida con configurador dinámico y motor de precios que corre en el servidor: superficie, opciones que se componen, mínimos por categoría, ofertas con vigencia y cupones con tope. Next.js 16 · React 19 · Supabase · vitest |
+
+---
+
 ## Público en este perfil
 
-**[ClaveTrack](https://github.com/AgustinClavero/ClaveTrack)** — PWA instalable de seguimiento personal: nutrición, peso, hábitos y objetivos. Next.js App Router, TypeScript estricto, TanStack Query, Zustand, Zod. Es el que mejor muestra cómo escribo y cómo documento hoy.
+**[ClaveTrack](https://github.com/AgustinClavero/ClaveTrack)** — [clave-track.vercel.app](https://clave-track.vercel.app) · PWA instalable de seguimiento personal: nutrición, peso, actividad, hábitos, rutina y trabajo, resumidos en un solo número por día. Server Actions validadas con Zod, dominio puro y testeable, RLS uniforme en 22 tablas e integración con Strava por OAuth y webhook. Next.js App Router, TypeScript estricto, Supabase, TanStack Query, Zustand. **Es el que mejor muestra cómo escribo y cómo documento hoy.**
 
 El resto de los repositorios públicos son ejercicios de cursada de 2020–2024. Los dejo por historial, no como muestra de trabajo actual.
 
