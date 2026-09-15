@@ -26,6 +26,9 @@ Estos tres viven en repositorios privados. Los reviso por pantalla compartida cu
 |---|---|
 | **Medialunas Ya · POS** | Punto de venta a medida para una cafetería y panadería: salón, pedidos, KDS, caja y cierres de turno. Reemplaza un sistema anterior de una sola página sin backend y con la base expuesta. Next.js 16 · React 19 · Supabase con RLS y login por PIN hasheado |
 | **eBe Muebles · Cotizador** | Cotizador de muebles a medida con configurador dinámico y motor de precios que corre en el servidor: superficie, opciones que se componen, mínimos por categoría, ofertas con vigencia y cupones con tope. Next.js 16 · React 19 · Supabase · vitest |
+| **Sistema Agéntico** | Plataforma multi-tenant donde un agente de IA atiende por WhatsApp y por un widget embebible, sobre los datos reales del negocio. RAG con pgvector en la misma base, control de presupuesto y corte por tope de consumo, verticales por rubro y jobs con Inngest. Next.js 16 · Supabase · SDK de Anthropic |
+| **Gym · Gestión** | Sistema para gimnasios: socios, planes, cuotas, check-in por DNI en la puerta, caja con cierre y diferencia, comprobantes y avisos por WhatsApp con anti-spam e historial. Next.js 16 · React 19 · Prisma |
+| **CCA · Clave Code Automatizations** | Centro operativo de la agencia: clientes, proyectos, tareas, reuniones, auditorías de SEO con PageSpeed y reportes, más un portal read-only para el cliente filtrado por RLS. Next.js 16 · Supabase · Inngest |
 
 ---
 
