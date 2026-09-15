@@ -12,9 +12,9 @@ Seis años entregando proyectos para clientes y agencias de España, Argentina, 
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| **[Bocado](https://bocadocarta.com)** | Carta digital con pedidos online y mesas con QR, sin comisiones | Next.js · TypeScript · Supabase · Tailwind · zod · vitest |
+| **[Bocado](https://www.bocadocarta.com)** | Carta digital, pedidos online y pedidos en mesa con QR, sin comisiones<br>🍽️ [Dónde Como, el directorio público](https://www.bocadocarta.com/donde-como) | Next.js · TypeScript · Supabase con RLS multi-tenant · zod · vitest |
 | **[Matcheando](https://www.matcheando.com.ar)** | Plataforma de eventos: app social + panel para establecimientos<br>📱 [Publicada en la App Store](https://apps.apple.com/ar/app/matcheando-conect%C3%A1-en-eventos/id6782132154) | Next.js · React Native (Expo) · Supabase · Playwright |
-| **[Gestiapp](https://dashboard.gestiapp.com.ar)** | SaaS multi-tenant de gestión institucional, con pagos integrados | Next.js · PostgreSQL con Row Level Security · Mercado Pago |
+| **[Gestiapp](https://www.gestiapp.com.ar)** | SaaS multi-tenant de gestión para escuelas y academias, con pagos integrados<br>📱 [Publicada en la App Store](https://apps.apple.com/ar/app/gestiapp/id6804172409) · 🖥️ [Panel](https://dashboard.gestiapp.com.ar) | Next.js · React Native (Expo) · PostgreSQL con Row Level Security · Mercado Pago |
 
 Estos tres viven en repositorios privados. Los reviso por pantalla compartida cuando hace falta.
 
